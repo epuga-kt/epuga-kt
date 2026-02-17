@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Elbin! 👋
+### Android Developer | Jetpack Compose Enthusiast 🚀
 
-<!--
-**epuga-kt/epuga-kt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Android Developer focused on building modern, reactive, and scalable mobile applications using **Kotlin** and **Jetpack Compose**.
 
-Here are some ideas to get you started:
+- 🛠 **What I'm working with:** Kotlin, Compose, Coroutines, Flow, Hilt (DI), and Room.
+- 🏗 **Architectures:** MVVM
+- 🎯 **Current Goal:** Mastering MVVM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠 Tech Stack
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
